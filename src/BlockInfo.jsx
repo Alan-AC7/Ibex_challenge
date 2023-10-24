@@ -70,7 +70,7 @@ window.location.reload();
 <br></br>
 
    
-    <div class="mx-auto max-w-screen-md mt-12 flex flex-col items-center bg-white border rounded-lg shadow md:flex-row md:max-w-screen-lg border-white bg-[rgb(4,7,12)]">
+    <div class="mx-auto max-w-screen-md mt-12 flex flex-col items-center border rounded-lg shadow md:flex-row md:max-w-screen-lg border-white bg-[rgb(4,7,12)]">
     <img className="object-cover w-full rounded-t-lg h-96 md:h-auto md:w-48 md:rounded-none md:rounded-l-lg" src="./src/img/block.gif" alt=""></img>
     <div class="flex flex-col justify-between p-4 leading-normal">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">Current Block</h5>
@@ -84,7 +84,7 @@ window.location.reload();
         </div>
         </div>
         <br></br>
-        <div class="mx-auto max-w-screen-md flex flex-col items-center bg-white border rounded-lg shadow md:flex-row md:max-w-screen-lg border-white bg-[rgb(4,7,12)]">
+        <div class="mx-auto max-w-screen-md flex flex-col items-center  border rounded-lg shadow md:flex-row md:max-w-screen-lg border-white bg-[rgb(4,7,12)]">
    
     <div class="flex flex-col justify-between p-4 leading-normal">
         <h5 class="mb-2 text-2xl font-bold tracking-tight text-white">Previous Block</h5>
